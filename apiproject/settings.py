@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-z#ofzxg$r(f10s#=w8+jex++ouqjk+h*1gt9mrx-b(7pp1#(1s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['testomega.myimc.in']
 
 
 # Application definition
